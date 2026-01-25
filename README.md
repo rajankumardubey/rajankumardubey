@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/rajankumardubey/rajankumardubey/main/banner.png)
+(img alt="Coding" width="100%" src="https://cdn.dribbble.c...")
 
 # 💫 About Me
 

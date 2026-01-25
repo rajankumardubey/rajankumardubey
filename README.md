@@ -35,9 +35,9 @@ My goal is to continuously improve my skills through **hands-on coding, project-
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=your-username&theme=dark&hide_border=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=rajankumardubey&theme=dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=rajankumardubey&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajankumardubey&layout=compact&theme=dark)
 
 ---
 

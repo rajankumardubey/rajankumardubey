@@ -1,4 +1,4 @@
-(img alt="Coding" width="100%" src="https://cdn.dribbble.c...")
+<img alt="Coding" width="100%" src="https://cdn.dribbble.c...">
 
 # 💫 About Me
 

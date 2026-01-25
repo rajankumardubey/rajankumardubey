@@ -1,4 +1,4 @@
-<img alt="Coding" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img alt="Coding" height="30%" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💫 About Me
 
